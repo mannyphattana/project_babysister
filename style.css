@@ -1,0 +1,90 @@
+:root{
+    --green:#95ad9c;
+    --white:#fff;
+    --black:#000;
+}
+
+@media (min-width:768px) {
+    .full-width{
+        min-width: 75%;
+    }
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: bold;
+}
+
+.full-width{
+    min-width: 100%;
+}
+
+.navbar {
+    background-color: var(--green);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu-top {
+    /* margin-left: 1200px; */
+    position: absolute;
+    right: 150px
+}
+
+.menu-top a{
+    text-decoration: none;
+}
+
+.ml-4{
+    margin-left: 150px;
+}
+
+.mr-4{
+    margin-right: 150px;
+}
+
+.ml-6{
+    margin-left: 250px;
+}
+
+.vertical-divider {
+    border-right: 2px solid black;
+}
+
+.my-5{
+    margin-top: 150px!important;
+    margin-bottom: 150px!important;
+}
+
+.search input{
+    height: 35px; 
+    width: 500px; 
+    border-radius: 15px; 
+    border: 1px solid var(--green);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.search input:focus{
+    outline: none;
+}
+
+.search .btn{
+    height: 35px; 
+    border-color: var(--green); 
+    color: var(--green); 
+    border-radius: 15px;
+}
+
+.content .job-search{
+    border: 1px solid var(--black); 
+    height: 250px;
+}
+
+.job-search .picture{
+    margin: 25px;
+    border: 1px solid; 
+    height: 150px; 
+    width: 150px;
+}
