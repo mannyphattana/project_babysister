@@ -88,3 +88,13 @@ body{
     height: 150px; 
     width: 150px;
 }
+
+.babysister-list{
+    border: 1px solid; 
+    height: 250px; 
+    width: 200px;
+}
+
+.describe span{
+    font-size: 14px;
+}
