@@ -81,6 +81,10 @@ body{
     border: 1px solid var(--black); 
     height: 250px;
 }
+.content .job-search2{
+    border: 1px solid var(--black); 
+    height: 300px;
+}
 
 .job-search .picture{
     margin: 25px;
@@ -93,6 +97,17 @@ body{
     border: 1px solid; 
     height: 250px; 
     width: 200px;
+}
+.babysister-list2{
+    border: 1px solid; 
+    height: 300px; 
+    width: 200px;
+}
+.bright{
+    float : right;
+}
+.bsuccess{
+    float : right;
 }
 
 .describe span{
