@@ -83,7 +83,7 @@ body{
 }
 .content .job-search2{
     border: 1px solid var(--black); 
-    height: 300px;
+    height: 370px;
 }
 
 .job-search .picture{
@@ -101,7 +101,7 @@ body{
 .babysister-list2{
     border: 1px solid; 
     height: 300px; 
-    width: 200px;
+    width: 250px;
 }
 .bright{
     float : right;
