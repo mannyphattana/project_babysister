@@ -53,8 +53,13 @@ body{
 }
 
 .my-5{
-    margin-top: 150px!important;
-    margin-bottom: 150px!important;
+    margin-top: 2.25rem!important;
+    margin-bottom: 2.25rem!important;
+}
+
+.my-6{
+    margin-top: 6rem!important;
+    margin-bottom: 6rem!important;
 }
 
 .search input{
@@ -112,4 +117,12 @@ body{
 
 .describe span{
     font-size: 14px;
+}
+
+.mr-2{
+    margin-right: 1rem;
+}
+
+.mt-2{
+    margin-top: 1rem;
 }
